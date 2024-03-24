@@ -1,7 +1,7 @@
 # ML200.ristinolla
 Custom TicTacToe openai-gym enviroment for PPO RL-agent. Part of the machine learnings university course
 
-# RL.200 Special Project - 274742 
+# RL.200 Special Project 
 Custom OpenAI gym enviroment for RL-agent
 
 
